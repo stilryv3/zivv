@@ -6,7 +6,10 @@ require('dotenv').config();
 const { quoteHandler, purgeServerQuoteImages, loadQuoteLog } = require('./quote');
 
 const prefix = '~';
-
+console.log('____  ______  __  __     ___   __  __')
+console.log('|__     | |   | | | |   |   |  \ \/ /')
+console.log(' _ |    | |   | | | |_  |  _/   | |')
+console.log('|__|    | |   | | |___| |  \    | |')
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
