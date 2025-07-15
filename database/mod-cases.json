@@ -1,0 +1,24 @@
+[
+  {
+    "type": "mute",
+    "user": "stilry",
+    "userId": "567185519063203846",
+    "moderator": "ninsacc",
+    "moderatorId": "569352110991343616",
+    "reason": "i felt like it",
+    "durationMinutes": 1,
+    "guildId": "1270677436677226548",
+    "timestamp": "2025-07-15T09:35:29.828Z",
+    "id": "gWtKiu"
+  },
+  {
+    "id": "Ei11wY",
+    "type": "unmute",
+    "user": "stilry",
+    "userId": "567185519063203846",
+    "moderator": "ninsacc",
+    "moderatorId": "569352110991343616",
+    "guildId": "1270677436677226548",
+    "timestamp": "2025-07-15T09:35:42.193Z"
+  }
+]

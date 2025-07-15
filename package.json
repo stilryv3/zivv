@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "canvas": "^3.1.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0",
+    "gifencoder": "^2.0.1"
+  },
+  "scripts": {
+    "a": "node deploy-commands.js",
+    "q": "node index.js"
+  }
+}
